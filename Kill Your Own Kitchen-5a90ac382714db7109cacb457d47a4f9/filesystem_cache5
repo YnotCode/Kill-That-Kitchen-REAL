@@ -1,0 +1,40 @@
+e676c8cf538667c7b7492316723f6fe3
+::res://::1573585311
+MainHallWall2.png::StreamTexture::1572720217::1572719954::1::<><>::
+curtainedWall.png::StreamTexture::1572720364::1572720364::1::<><>::
+default_env.tres::Environment::1573575860::0::1::<><>::
+Floor Tiles.tscn::PackedScene::1573575860::0::1::<><>::res://livingRoomTop.png<>res://livingRoomFloor (1).png<>res://pixil-frame-0 (26).png<>res://livingRoomFloor2.png<>res://mainHallWall1 (1).png<>res://MainHallWall2.png<>res://curtainedWall.png
+FloorTiles.tres::TileSet::1573159565::0::1::<><>::res://livingRoomTop.png<>res://livingRoomFloor (1).png<>res://mainHallWall1 (1).png<>res://livingRoomFloor2.png<>res://MainHallWall2.png<>res://curtainedWall.png<>res://pixil-frame-0 (26).png
+GridSnapper.gd::GDScript::1572045373::0::1::<>Position2D<>::
+icon.png::StreamTexture::1570996012::1570996019::1::<><>::
+KinematicBody2D.gd::GDScript::1572706805::0::1::<>KinematicBody2D<>::
+LivingRoomFloor.png::StreamTexture::1570711823::1571003088::1::<><>::
+LivingRoomFloorTopTile.png::StreamTexture::1570711786::1571003088::1::<><>::
+livingRoomFloor (1).png::StreamTexture::1572719535::1572719536::1::<><>::
+livingRoomFloor2.png::StreamTexture::1572719538::1572719538::1::<><>::
+livingRoomTop.png::StreamTexture::1572719541::1572719541::1::<><>::
+mainHallWall1 (1).png::StreamTexture::1572719606::1572719606::1::<><>::
+new_script.gd::GDScript::1571754026::0::1::<>KinematicBody2D<>::
+pixil-frame-0 (1).png::StreamTexture::1568402191::1571004402::1::<><>::
+pixil-frame-0 (24).png::StreamTexture::1572723669::1572723985::1::<><>::
+pixil-frame-0 (26).png::StreamTexture::1572722711::1572722711::1::<><>::
+pixil-frame-0 (4).png::StreamTexture::1571010230::1572724020::1::<><>::
+pixil-frame-0 (5).png::StreamTexture::1571010214::1572724026::1::<><>::
+pixil-frame-0 (8).png::StreamTexture::1571010260::1572724031::1::<><>::
+pixil-frame-0 (19).png::StreamTexture::1571186970::1571187282::1::<><>::
+pixil-frame-1.png::StreamTexture::1573585311::1573585311::1::<><>::
+pixil-frame-2.png::StreamTexture::1573585311::1573585311::1::<><>::
+pixil-frame-3.png::StreamTexture::1573585311::1573585311::1::<><>::
+pixil-frame-4.png::StreamTexture::1573585311::1573585311::1::<><>::
+pixil-frame-5.png::StreamTexture::1573585311::1573585311::1::<><>::
+pixil-frame-6.png::StreamTexture::1573585311::1573585311::1::<><>::
+pixil-frame-7.png::StreamTexture::1573585311::1573585312::1::<><>::
+pixil-frame-8.png::StreamTexture::1573585311::1573585312::1::<><>::
+pixil-frame-9.png::StreamTexture::1573585311::1573585312::1::<><>::
+player.tscn::PackedScene::1573575860::0::1::<><>::res://pixil-frame-0 (4).png<>res://pixil-frame-0 (8).png<>res://pixil-frame-0 (5).png
+Area2D.gd::GDScript::1573571846::0::1::<>Area2D<>::
+knifeItem.gd::GDScript::1573572012::0::1::<>Sprite<>::
+runningToasto1.png::StreamTexture::1571187572::1571187572::1::<><>::
+runningToasto2.png::StreamTexture::1571187575::1571187575::1::<><>::
+wall tile 1.png::StreamTexture::1571163168::1571163156::1::<><>::
+World.tscn::PackedScene::1573575860::0::1::<><>::res://FloorTiles.tres<>res://pixil-frame-0 (24).png<>res://knifeItem.gd<>res://Area2D.gd<>res://player.tscn<>res://pixil-frame-0 (19).png

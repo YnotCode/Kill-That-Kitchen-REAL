@@ -1,0 +1,17 @@
+Sprite
+HBoxContainer
+CollisionShape2D
+Area2D
+Spatial
+RichTextLabel
+Camera2D
+Position2D
+KinematicBody2D
+Camera
+Viewport
+VBoxContainer
+StaticBody2D
+CanvasLayer
+AnimatedSprite
+TileMap
+Node
